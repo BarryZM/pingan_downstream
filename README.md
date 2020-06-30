@@ -28,7 +28,7 @@
 
 2. 下游任务
 
-   即典型的BERT下游SequenceClassification任务
+   即典型的BERT下游SequenceClassification任务（该代码基于ZEN）
 
    数据构造为在一段对话中，每次到“人”标签则停顿，即以最后一个类别为“人”的文本标签为样本标签。
 
