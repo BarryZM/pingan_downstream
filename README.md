@@ -38,9 +38,9 @@
 
 -- data
 
-   -- train.xlsx: 源训练集
-
-   -- pubilic_test.xlsx: 源验证集
+      -- train.xlsx: 源训练集
+      
+      -- pubilic_test.xlsx: 源验证集
 
 -- experiments: 保存训练日志和参数
 
